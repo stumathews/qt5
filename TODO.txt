@@ -1,0 +1,7 @@
+1. Refamiliarize myself with connect concept
+2. What is Quick UI
+3. What is this CSS UI description language? QML?
+4. Browse some code to see how common interactions between events, objects are used.
+5. Look into gSoap and possible integrate it into QT
+6. Refamiliarize myself with the layout managers
+7.
